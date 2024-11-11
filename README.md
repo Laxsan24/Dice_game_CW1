@@ -1,0 +1,1 @@
+Dice game created for the user which is used to roll the dice, add the total then choose a column between 2 to 12. 3 Players have one turn and in order. The player in one column when that column is full the player with the most points will have the points add in the their total. The player with the most point in their total wins.
